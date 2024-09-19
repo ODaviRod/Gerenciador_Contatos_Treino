@@ -1,0 +1,2 @@
+"Gerenciador de contatos"
+Este código em Python foi desenvolvido com o objetivo de fixação de conteúdo e treino de operações condicionais e loops. Ele implementa um gerenciador de contatos simples com um menu interativo que permite ao usuário adicionar e visualizar contatos, além de sair do programa. O código utiliza loops para manter o menu ativo e para iterar sobre a lista de contatos, e operações condicionais para processar as escolhas do usuário e realizar as ações apropriadas.
